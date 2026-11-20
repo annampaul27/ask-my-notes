@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+
+# Logs and local files
+*.log
+*.local
+.DS_Store
+Thumbs.db
